@@ -1,6 +1,6 @@
 const connection    = require('../config/database.js');
 
-/*
+/* bago
 	Docu: Model Class
 		- req (http request object) - store all the query logs if the request object is passed
 		- force_log (true / false) - set to true to force the logging feature (Even for queries run in executeQuery(...))
